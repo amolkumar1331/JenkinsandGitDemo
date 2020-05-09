@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14144" started-at="2020-05-09T14:15:02Z" finished-at="2020-05-09T14:15:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14144" started-at="2020-05-09T14:15:02Z" finished-at="2020-05-09T14:15:16Z">
+      <class name="pkg1.BaseClass">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:pkg1.BaseClass@86c552e9]" name="launchBrowser" duration-ms="3977" started-at="2020-05-09T19:45:02Z" finished-at="2020-05-09T19:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="openURL()[pri:0, instance:pkg1.BaseClass@86c552e9]" name="openURL" duration-ms="10146" started-at="2020-05-09T19:45:06Z" finished-at="2020-05-09T19:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+      </class> <!-- pkg1.BaseClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
